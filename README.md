@@ -55,7 +55,13 @@ subscription type
 
 Write queries to extract key insights based on the following questions.
 - retrieve the total number of customers from each region.
+
+![IMG_20241105_214815](https://github.com/user-attachments/assets/170d4e4c-2bad-4a29-ab22-09fec5d926ba)
+
 - find the most popular subscription type by the number of customers.
+
+![IMG_20241105_214859](https://github.com/user-attachments/assets/d24389c9-ad4e-4f4a-9d7a-42e04d38ff6c)
+  
 - find customers who cancelled their subscriptions within 6 months.
 - calculate the average subscription duration for all customers.
 - find customers with subscriptions longer than 12 months
