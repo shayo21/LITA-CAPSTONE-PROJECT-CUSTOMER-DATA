@@ -3,8 +3,8 @@
 ## Project Title: Customer Segmentation for a Subscription Service 
 
 ### Project Overview
-This project involves analyzing customer data for a subscription service to identify segments and trends. The project goal is to understand customer behaviour, track subscription types, and identify key trends in cancellations and renewals. The final deliverable is a Power BI dashboard that presents the Data analysis of the project.
-This project aimed to generate insights on the subscription service of the company and such is considered from the subscription pattern, subscription duration, subscription type, average subscription type and most popular subscription type.
+This project involves analysing customer data for a subscription service to identify segments and trends. The goal is to understand customer behaviour, track subscription types, and identify key trends in cancellations and renewals. The final deliverable is a Power BI dashboard that presents the project's Data analysis.
+This project aimed to generate insights on the company's subscription service and such is considered from the subscription pattern, subscription duration, subscription type, average subscription type and most popular subscription type.
 
 ### Data Source
 The Data used for this project is sourced from Customer data.xls and Customer data.csv files which can be obtained from open-source websites such as Microsoft.com, Kaggle and FRED
@@ -56,11 +56,11 @@ subscription type
 Write queries to extract key insights based on the following questions.
 - retrieve the total number of customers from each region.
 
-![IMG_20241105_214815](https://github.com/user-attachments/assets/170d4e4c-2bad-4a29-ab22-09fec5d926ba)
+
 
 - find the most popular subscription type by the number of customers.
 
-![IMG_20241105_214859](https://github.com/user-attachments/assets/d24389c9-ad4e-4f4a-9d7a-42e04d38ff6c)
+
   
 - find customers who cancelled their subscriptions within 6 months.
 - calculate the average subscription duration for all customers.
@@ -79,3 +79,10 @@ Write queries to extract key insights based on the following questions.
 
 
 ![Screenshot 2024-11-06 191502](https://github.com/user-attachments/assets/0898857c-4fa7-4a4f-99b0-d4f7b3a1fa9b)
+
+
+
+![Screenshot 2024-11-10 160659](https://github.com/user-attachments/assets/0eeb89c4-2de9-44b8-9e65-595e6926f19d)
+![Screenshot 2024-11-10 150210](https://github.com/user-attachments/assets/dd5c40fc-796f-4fa9-a270-1da1ebffc80f)
+![Screenshot 2024-11-06 191754](https://github.com/user-attachments/assets/58a41930-0664-4540-9996-525332b603ae)
+![Screenshot 2024-11-06 191502](https://github.com/user-attachments/assets/2e25bb5d-8492-4042-8387-9199366e8840)
