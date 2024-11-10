@@ -82,7 +82,3 @@ Write queries to extract key insights based on the following questions.
 
 
 
-![Screenshot 2024-11-10 160659](https://github.com/user-attachments/assets/0eeb89c4-2de9-44b8-9e65-595e6926f19d)
-![Screenshot 2024-11-10 150210](https://github.com/user-attachments/assets/dd5c40fc-796f-4fa9-a270-1da1ebffc80f)
-![Screenshot 2024-11-06 191754](https://github.com/user-attachments/assets/58a41930-0664-4540-9996-525332b603ae)
-![Screenshot 2024-11-06 191502](https://github.com/user-attachments/assets/2e25bb5d-8492-4042-8387-9199366e8840)
